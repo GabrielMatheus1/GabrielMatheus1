@@ -1,6 +1,15 @@
 # 👋 Bem-vindo ao meu perfil!
 
-Olá! Sou Gabriel Matheus, um desenvolvedor WEB apaixonado por criar soluções eficientes e inovadoras. Com experiência em **HTML**, **CSS**, **JavaScript**, **Node.js** e **SQLite**, busco constantemente explorar novas tecnologias e evoluir como profissional.
+Olá! Sou Gabriel Matheus, um desenvolvedor WEB apaixonado por criar soluções eficientes e inovadoras, busco constantemente explorar novas tecnologias e evoluir como profissional.
+
+<br>
+
+
+## 🛠️ Tecnologias que domino e continuo explorando:
+- **HTML & CSS**: Estruturação e estilização de páginas web responsivas.
+- **JavaScript**: Criação de interatividade e desenvolvimento de funcionalidades dinâmicas.
+- **Node.js**: Desenvolvimento de back-end e APIs.
+- **SQLite**: Gerenciamento eficiente de bancos de dados.
 
 <br>
 
