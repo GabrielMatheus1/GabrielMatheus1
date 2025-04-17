@@ -12,10 +12,16 @@ Olá! Sou Gabriel Matheus, um desenvolvedor WEB apaixonado por criar soluções 
 <br>
 
 ## 🌟 Atividade recente
+Iniciei um novo desafio 
 No último ano, realizei **295 contribuições**, incluindo commits, criação de repositórios e abertura de issues. Alguns dos meus repositórios mais recentes incluem:
 - [Formulario Interativo](https://gabrielmatheus1.github.io/Formulario-Interativo/)
 
   <br>
+
+ ## 🏆 Novos desafios
+Atualmente, iniciei um desafio na carreira como monitor de sala de aula na MFX Academy, contribuindo para o desenvolvimento de novos talentos e promovendo o aprendizado em equipe.
+
+<br>
 
  Adoro colaborar com a comunidade e compartilhar conhecimento. Sempre que possível.
 
