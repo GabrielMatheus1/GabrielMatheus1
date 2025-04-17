@@ -1,4 +1,23 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu perfil!
+
+Olá! Sou Gabriel Matheus, um desenvolvedor WEB apaixonado por criar soluções eficientes e inovadoras. Com experiência em **HTML**, **CSS**, **JavaScript**, **Node.js** e **SQLite**, busco constantemente explorar novas tecnologias e evoluir como profissional.
+
+<br>
+
+
+## 🚀 Projeto em destaque
+- **[CODE-BURGUER](https://gabrielmatheus1.github.io/CODE-BURGUER/):** Projeto final do curso MFX Academy, com foco em banco de dados e funcionalidades práticas.
+
+<br>
+
+## 🌟 Atividade recente
+No último ano, realizei **295 contribuições**, incluindo commits, criação de repositórios e abertura de issues. Alguns dos meus repositórios mais recentes incluem:
+- [Formulario Interativo](https://gabrielmatheus1.github.io/Formulario-Interativo/)
+
+  <br>
+
+ Adoro colaborar com a comunidade e compartilhar conhecimento. Sempre que possível.
+
 
 <!--
 **GabrielMatheus1/GabrielMatheus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
