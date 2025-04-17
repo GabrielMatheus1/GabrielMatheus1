@@ -6,6 +6,7 @@ Olá! Sou Gabriel Matheus, um desenvolvedor WEB apaixonado por criar soluções 
 
 
 ## 🚀 Projeto em destaque
+- **[Portfólio](https://gabrielmatheus1.github.io/Portifolio/) "_blank":** Meu portfólio pessoal com projetos completos e detalhes sobre minha jornada.
 - **[CODE-BURGUER](https://gabrielmatheus1.github.io/CODE-BURGUER/):** Projeto final do curso MFX Academy, com foco em banco de dados e funcionalidades práticas.
 
 <br>
