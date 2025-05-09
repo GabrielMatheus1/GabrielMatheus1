@@ -62,28 +62,28 @@
 
 <br> 
 
-<h3>⭐Destaque</h3>
-<a href="https://code-burguer-weld.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%8D%94-Code%20Burguer-darkgreen"></a>
+<p>⭐Destaque</p>
+<a href="https://code-burguer-weld.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8D%94-Code%20Burguer-darkgreen"></a>
 
 <br> <br>
 
 
-<a href="https://gabrielmatheus1.github.io/Cards-Selector/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/1%C2%B0-Adventure%20Time-darkgreen"></a>
+<a href="https://gabrielmatheus1.github.io/Cards-Selector/"><img src="https://img.shields.io/badge/1%C2%B0-Adventure%20Time-darkgreen"></a>
 
 
-<a href="https://gabrielmatheus1.github.io/Cards/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/2%C2%B0-Cards%20Pok%C3%A9mons-darkgreen"></a>
+<a href="https://gabrielmatheus1.github.io/Cards/"><img src="https://img.shields.io/badge/2%C2%B0-Cards%20Pok%C3%A9mons-darkgreen"></a>
 
 
-<a href="https://gabrielmatheus1.github.io/Carrossel-de-Imagens/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/3%C2%B0-Image%20Carousel-darkgreen"></a>
+<a href="https://gabrielmatheus1.github.io/Carrossel-de-Imagens/"><img src="https://img.shields.io/badge/3%C2%B0-Image%20Carousel-darkgreen"></a>
 
 
-<a href="https://gabrielmatheus1.github.io/Formulario-completo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/4%C2%B0-Contact%20Form-darkgreen"></a>
+<a href="https://gabrielmatheus1.github.io/Formulario-completo/"><img src="https://img.shields.io/badge/4%C2%B0-Contact%20Form-darkgreen"></a>
 
 
-<a href="https://gabrielmatheus1.github.io/Formulario-Interativo/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/5%C2%B0-Interactive%20Form-darkgreen"></a>
+<a href="https://gabrielmatheus1.github.io/Formulario-Interativo/"><img src="https://img.shields.io/badge/5%C2%B0-Interactive%20Form-darkgreen"></a>
 
 
-<a href="https://gabrielmatheus1.github.io/Portifolio/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/6%C2%B0-Portfolio%20in%20Development-darkgreen"></a>
+<a href="https://gabrielmatheus1.github.io/Portifolio/"><img src="https://img.shields.io/badge/6%C2%B0-Portfolio%20in%20Development-darkgreen"></a>
 
 
 <br> <br> <br>
@@ -105,14 +105,14 @@
 <div align="center">
  <div>
      <a href="https://google.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/whasapp.png" alt="WhatsApp" width="60px" >
-<h3>(11) 93087-6062</h3></a>
+<p>(11) 93087-6062</p></a>
   </div>
 
   
    <div>
      <a href="mailto:gabrielmatheus0110@gmail.com?subject=Contato%20pelo%20Github&body=Olá,%20quero%20entrar%20em%20contato!">
     <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/email.png" alt="email" width="60px" >
-    <h3>gabreilmatheus0110@gmai.com</h3></a>
+    <p>gabreilmatheus0110@gmai.com</p></a>
   </div>
 
   
@@ -120,7 +120,7 @@
    <div>
      <a href="https://www.linkedin.com/posts/gabriel-matheus-izidoro-dos-santos-7023991b5_certificado-certificado-de-conclus%C3%A3o-do-activity-7064777399376248833-QsUq" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/in.png" alt="linkedin" width="60px" >
-    <h3>Gabriel Matheus</h3></a>
+    <p>Gabriel Matheus</p></a>
   </div>
 </div>
 
