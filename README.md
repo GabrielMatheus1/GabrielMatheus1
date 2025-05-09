@@ -102,8 +102,27 @@
 
 <br>
 
-<img src="" alt="WhatsApp" width="50px" >
- WhatsApp
+<div align="center">
+ <div>
+     <a href="https://google.com/"> <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/whasapp.png" alt="WhatsApp" width="60px" >
+<h3>(11) 93087-6062</h3></a>
+  </div>
+
+  
+   <div>
+     <a href="mailto:gabrielmatheus0110@gmail.com?subject=Contato%20pelo%20Github&body=Olá,%20quero%20entrar%20em%20contato!">
+    <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/email.png" alt="email" width="60px" >
+    <h3>gabreilmatheus0110@gmai.com</h3></a>
+  </div>
+
+  
+
+   <div>
+     <a href="https://www.linkedin.com/posts/gabriel-matheus-izidoro-dos-santos-7023991b5_certificado-certificado-de-conclus%C3%A3o-do-activity-7064777399376248833-QsUq">
+    <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/in.png" alt="linkedin" width="60px" >
+    <h3>Gabriel Matheus</h3></a>
+  </div>
+</div>
 
 <br>
 
