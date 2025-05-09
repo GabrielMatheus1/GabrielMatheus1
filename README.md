@@ -104,7 +104,7 @@
 
 <div align="center">
  <div>
-     <a href="https://google.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/whasapp.png" alt="WhatsApp" width="60px" >
+     <a href="https://google.com/"> <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/whasapp.png" alt="WhatsApp" width="60px" >
 <p>(11) 93087-6062</p></a>
   </div>
 
@@ -118,7 +118,7 @@
   
 
    <div>
-     <a href="https://www.linkedin.com/posts/gabriel-matheus-izidoro-dos-santos-7023991b5_certificado-certificado-de-conclus%C3%A3o-do-activity-7064777399376248833-QsUq" target="_blank" rel="noopener noreferrer">
+     <a href="https://www.linkedin.com/posts/gabriel-matheus-izidoro-dos-santos-7023991b5_certificado-certificado-de-conclus%C3%A3o-do-activity-7064777399376248833-QsUq">
     <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/in.png" alt="linkedin" width="60px" >
     <p>Gabriel Matheus</p></a>
   </div>
