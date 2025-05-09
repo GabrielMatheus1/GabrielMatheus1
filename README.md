@@ -94,6 +94,17 @@
 
 <p>Atualmente, iniciei um desafio na carreira como monitor de sala de aula na MFX Academy, contribuindo para o desenvolvimento de novos talentos e promovendo o aprendizado em equipe.</p>
 
+
+<br> <br> <br>
+
+
+<h2>📞 Contato</h2>
+
+<br>
+
+<img src="" alt="WhatsApp" width="50px" >
+ WhatsApp
+
 <br>
 
 <div align="center" >
