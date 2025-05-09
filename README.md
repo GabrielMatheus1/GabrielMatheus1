@@ -104,7 +104,7 @@
 
 <div align="center">
  <div>
-     <a href="https://google.com/"> <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/whasapp.png" alt="WhatsApp" width="60px" >
+     <a href="Https://wa.me/11930876068?text=Ola%20vim%20pelo%20Github"> <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/whasapp.png" alt="WhatsApp" width="60px" >
 <p>(11) 93087-6062</p></a>
   </div>
 
