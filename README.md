@@ -104,14 +104,14 @@
 
 <div align="center">
  <div>
-     <a href="Https://wa.me/11930876068?text=Ola%20vim%20pelo%20Github"> <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/whasapp.png" alt="WhatsApp" width="60px" >
+     <a href="Https://wa.me/11930876068?text=Ola%20vim%20pelo%20Github"> <img src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt="WhatsApp" width="60px" >
 <p>(11) 93087-6062</p></a>
   </div>
 
   
    <div>
      <a href="mailto:gabrielmatheus0110@gmail.com?subject=Contato%20pelo%20Github&body=Olá,%20quero%20entrar%20em%20contato!">
-    <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/email.png" alt="email" width="60px" >
+    <img src="https://www.freepnglogos.com/uploads/email-png/email-icon-philippe-the-original-31.png" alt="email" width="45px" >
     <p>gabreilmatheus0110@gmai.com</p></a>
   </div>
 
@@ -119,7 +119,7 @@
 
    <div>
      <a href="https://www.linkedin.com/posts/gabriel-matheus-izidoro-dos-santos-7023991b5_certificado-certificado-de-conclus%C3%A3o-do-activity-7064777399376248833-QsUq">
-    <img src="https://raw.githubusercontent.com/GabrielMatheus1/GabrielMatheus1/refs/heads/main/imgs/in.png" alt="linkedin" width="60px" >
+    <img src="https://www.freepnglogos.com/uploads/linkedin-logo-transparent-picture-31.png" alt="linkedin" width="45px" >
     <p>Gabriel Matheus</p></a>
   </div>
 </div>
