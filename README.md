@@ -104,7 +104,7 @@
 
 <div align="center">
  <div>
-     <a href="Https://wa.me/11930876068?text=Ola%20vim%20pelo%20Github"> <img src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt="WhatsApp" width="60px" >
+     <a href="Https://wa.me/55011930876062?text=Ola%20vim%20pelo%20Github"> <img src="https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png" alt="WhatsApp" width="60px" >
 <p>(11) 93087-6062</p></a>
   </div>
 
