@@ -2,7 +2,7 @@
 
 <br>
 
-  <p>Olá! Sou Gabriel Matheus, um desenvolvedor WEB apaixonado por criar soluções eficientes e inovadoras, busco constantemente explorar novas tecnologias e evoluir como profissional, adoro colaborar com a comunidade e compartilhar conhecimento. Sempre que possível.</p>
+  <p>Olá! Sou Gabriel Matheus, desenvolvedor Fullstack apaixonado por criar soluções eficientes e inovadoras, busco constantemente explorar novas tecnologias e evoluir como profissional, adoro colaborar com a comunidade e compartilhar conhecimento. Sempre que possível.</p>
 
 
 <br>
@@ -92,7 +92,7 @@
 <h2>🏆 Novos desafios</h2>
 <br>
 
-<p>Atualmente, iniciei um desafio na carreira como monitor de sala de aula na MFX Academy, contribuindo para o desenvolvimento de novos talentos e promovendo o aprendizado em equipe.</p>
+<p>Atualmente, iniciei um desafio na carreira como Desenvolvedor Fullstack e Monitor de sala de aula na *JYNX Academy (MFX Academy), contribuindo para o desenvolvimento de novos talentos e promovendo o aprendizado em equipe.</p>
 
 
 <br> <br> <br>
